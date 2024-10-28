@@ -8,7 +8,7 @@
 - 💼 Rocket League Manager Pro [Top 14 RLCS EU - French Champion]
 - 🎥 Amateur Video Editor
 
-<br>
+
 
 # **Technical Skills**
 > The languages listed below are those I have learned through training or self-study.
